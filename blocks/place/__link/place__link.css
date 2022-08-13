@@ -1,7 +1,10 @@
 .place__link {
-    color:#FFFFFF;
+    color: #FFFFFF;
     margin: 0;
     padding: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
 }
 
 .place__link:hover {
