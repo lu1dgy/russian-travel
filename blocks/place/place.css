@@ -29,7 +29,7 @@
     .place {
         margin-top: 50px;
         grid-template-columns: 1fr;
-        gap: 32px
+        gap: 32px;
 
     }
 }
