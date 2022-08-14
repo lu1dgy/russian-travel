@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 460px minmax(288px, 484px);
     gap: 48px 40px;
-    margin-top: 80px;
+    margin: 80px auto 0 auto;
 }
 
 .place:first-of-type {
