@@ -16,3 +16,6 @@
 </ul>
 
 Link: https://lu1dgy.github.io/russian-travel/
+
+<h3>What i want to add?</h3>
+<p>I want to add the opportunity to change the language and theme</p>
