@@ -1,16 +1,18 @@
-Russian-travel
+<h1>Russian-travel</h1>
 
-О проекте: Одностраничный учебный сайт про путешествия в России.
+<h2>Description:</h2>
+<p>It's a one-page website about traveling in Russia</p>
 
-Технологии:
+<h3>Technologies</h3>
 
-Страница сделана адаптивно под разные разрешения экранов
+<p>This page is adaptive for every type of screen</p>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Flexbox</li>
+<li>Grid</li>
+<li>BEM</li>
+<li>Media</li>
+</ul>
 
-1) HTML5 
-2) CSS3
-3) Flexbox
-4) Grid
-5) BEM 
-6) Media
-
-Ссылка на сайт: https://lu1dgy.github.io/russian-travel/
+Link: https://lu1dgy.github.io/russian-travel/
