@@ -1,11 +1,11 @@
 <h1>Russian-travel</h1>
 
 <h2>Description:</h2>
-<p>It's a one-page website about traveling in Russia</p>
+<p>It's a one-page website about traveling in Russia.</p>
 
-<h3>Technologies</h3>
+<h3>Technologies:</h3>
 
-<p>This page is adaptive for every type of screen</p>
+<p>This page is adaptive for every type of screen.</p>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
@@ -18,4 +18,4 @@
 Link: https://lu1dgy.github.io/russian-travel/
 
 <h3>What i want to add?</h3>
-<p>I want to add the opportunity to change the language and theme</p>
+<p>I want to add the opportunity to change the language and theme.</p>
